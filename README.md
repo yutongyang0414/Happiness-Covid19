@@ -176,6 +176,7 @@ happiness_score$log_sum_of_deaths<-log(happiness_score$sum_of_deaths)
 ![download-1](https://github.com/yutongyang0414/Happiness-Covid19/blob/main/Figure/download-1.png)
 ![download-2](https://github.com/yutongyang0414/Happiness-Covid19/blob/main/Figure/download-2.png)
 ![download-3](https://github.com/yutongyang0414/Happiness-Covid19/blob/main/Figure/download-3.png)
+
 From the box plot for 2020 and 2021, the happiness scores of two years are slightly different. For the box plot for the relationship between happiness score and log transformation of sum of deaths for 2020 and 2021 separately, there is no obvious pattern.  So we can guess log transformation of sum of deaths should not have significant effect on happiness scores, which indicate that covid-19 does not lead to the decrease of happiness score. 
 
 For the box plot for the relationship between happiness score and continent, it shows differences happiness score for different continent. Countries in Oceania shows highest average happiness scores, and Countries in Europe shows second highest average happiness scores. So continent may be a factor that will affect the happiness score.
